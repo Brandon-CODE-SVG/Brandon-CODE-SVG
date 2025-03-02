@@ -1,5 +1,4 @@
-# 💫 About Me:
-Back-End Developer specializing in Python (Django, Flask).<br>Currently learning JavaScript and PHP.<br>Sharpening my skills through the Power Learn project
+# 💫 About Me:As a dedicated Java Developer, I have a strong passion for creating innovative solutions using Java. <br>Currently, I am deepening my expertise in Java SE and EE through Oracle, ensuring that I stay at the forefront of the industry. <br>By actively engaging in both solo and group projects, I continue to sharpen my skills and broaden my experience. <br>My love for programming drives me to constantly explore new challenges and deliver exceptional results. <br>Join me on this exciting journey of continuous growth and achievement in the world of Java!
 
 
 # 💻 Tech Stack:
